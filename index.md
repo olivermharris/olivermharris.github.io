@@ -1,7 +1,4 @@
 # Application Index
-
-> Does this index table contain incorrect information? 
-> 
 ###### [Open A New Issue](https://github.com/Oliver-Harris/Oliver-Harris.github.io/issues/new)
 
 Application | Status | Version | Description
